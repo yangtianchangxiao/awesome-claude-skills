@@ -192,6 +192,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 
 ### Productivity & Organization
 
+- [ChatFate](https://chatfate.life/skills/chatfate/SKILL.md) - Computes True Solar Time Sanhe Zi Wei Dou Shu 12-palace charts, Solar-Term Four Pillars BaZi / Korean Saju, dual relationship synastry, and 22-Arcana Destiny Matrix readings with past-event verification.
 - [File Organizer](./file-organizer/) - Intelligently organizes files and folders by understanding context, finding duplicates, and suggesting better organizational structures.
 - [Invoice Organizer](./invoice-organizer/) - Automatically organizes invoices and receipts for tax preparation by reading files, extracting information, and renaming consistently.
 - [kaizen](https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen) - Applies continuous improvement methodology with multiple analytical approaches, based on Japanese Kaizen philosophy and Lean methodology.
